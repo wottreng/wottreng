@@ -4,6 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Linux enthusiast 💻 Go Blue 〽️
 
 *   🌍  I'm based in Michigan
+*   👨‍💻 I work at Ford Motory Company in ADAS Software Developement <img src="https://i.pinimg.com/originals/a6/dd/78/a6dd7857aa74fd3398b308a22b0530d8.gif" width="auto" height="36" align="center" />
 *   ✉️  You can contact me at [mwottreng@yahoo.com](mailto:mwottreng@yahoo.com)
 *   🚀   Currently working on end to end smart automation project
 

@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Linux enthusiast 💻 Go Blue 〽️
 
 *   🌍  I'm based in Michigan
-*   👨‍💻 I work at Ford Motory Company in AI Application Software Developement <img src="https://i.pinimg.com/originals/a6/dd/78/a6dd7857aa74fd3398b308a22b0530d8.gif" width="auto" height="36" align="center" />
+*   👨‍💻 I work at General Motors in Embedded Software Developement
 *   ✉️  You can contact me at [mwottreng@yahoo.com](mailto:mwottreng@yahoo.com)
-*   🚀   Currently working on end to end smart automation project
+*   🚀   Currently working on end to end AI automation project
 
 ### Skills 
 <p align="left">
@@ -24,7 +24,6 @@ Linux enthusiast 💻 Go Blue 〽️
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/51070104/268566349-c41e65a5-2ab9-4b54-8cbc-350ab6da746c.png" width="36" height="36" alt="Flask" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://www.postgresql.org/"><img src="https://images.icon-icons.com/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" width="36" height="36" /></a>
-<a href="https://n8n.io/"><img src="https://n8n.io/guidelines/logo-white.svg" width="46" height="36" /></a>
 <a href="https://nginx.org/"><img src="https://img.icons8.com/color/512/nginx.png" width="36" height="36" /></a>
 </p>
 
